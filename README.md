@@ -6,7 +6,7 @@
 - 🗃 PostgreSQL | MongoDB
 
 <p>
-<a href='#'><img src=“https://github-readme-stats.vercel.app/api?username=charliefischera9&show_icons=true&count_private=true&theme=dark” width=“350”></a>
+<a href='#'><img src=“https://github-readme-stats.vercel.app/api?username=charliefischer&show_icons=true&count_private=true&theme=dark></a>
 </p>
 
 #### 🌱 I’m currently learning ...
