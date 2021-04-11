@@ -1,6 +1,6 @@
 ### Hi there, I'm Charlie 👋
 <p  align='left'>
-  <a href="https://www.linkedin.com/in/charliefischer/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/charlie-fischer/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
 #### 🛠 Tech Stack
