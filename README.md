@@ -4,7 +4,7 @@
 </p>
 
 #### 🛠 Tech Stack
- 🖥  Ruby | Javascript <br />
+ 🖥  Javascript | Ruby  <br />
  🌐  React | React Native | Rails | HTML | CSS | JQuery <br />
  🗃  PostgreSQL | MongoDB <br />
 
