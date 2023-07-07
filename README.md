@@ -4,8 +4,8 @@
 </p>
 
 #### 🛠 Tech Stack
- 🖥  Javascript | Ruby  <br />
- 🌐  React | React Native | Rails | HTML | CSS | JQuery <br />
+ 🖥  Javascript | Python  <br />
+ 🌐  Vue| Nuxt| React | Next | React Native | Rails | HTML | CSS | Tailwind <br />
  🗃  PostgreSQL | MongoDB <br />
 
 <p align='left'>
@@ -14,4 +14,4 @@
 
 
 #### 🌱 I’m currently learning ...
-ThreeJS to combine my skills in illustration and web development to build immersive 3D scenes within the browser
+p5.js and ThreeJS to combine my skills in illustration and web development to build immersive experiences within the browser
