@@ -14,5 +14,5 @@
 
 
 #### 🌱 I’m currently learning ...
-p5.js and ThreeJS to combine my skills in illustration and web development to build immersive experiences within the browser
-Harvard CS50 - sharpen up and optimise my coding skills
+🧑‍🎨 p5.js and ThreeJS to combine my skills in illustration and web development to build immersive experiences within the browser
+🎒 Harvard CS50 - sharpen up and optimise my coding skills
