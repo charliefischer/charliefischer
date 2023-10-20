@@ -8,10 +8,6 @@
  🌐  Vue| Nuxt| React | Next | React Native | Rails | HTML | CSS | Tailwind <br />
  🗃  PostgreSQL | MongoDB <br />
 
-<p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=charliefischer&show_icons=true&count_private=false&theme=dark" width="350"></a>
-</p>
-
 
 #### 🌱 I’m currently learning ...
 🧑‍🎨 Rive - converting my illustrations into web animations<br />
