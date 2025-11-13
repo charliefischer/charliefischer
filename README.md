@@ -5,8 +5,8 @@
 
 #### 🛠 Tech Stack
  🖥  Javascript | Python  <br />
- 🌐  Vue| Nuxt| React | Next | React Native | Rails | HTML | CSS | Tailwind <br />
- 🗃  PostgreSQL | MongoDB <br />
+ 🌐  Vue| Nuxt | HTML | CSS | Tailwind | ThreeJS <br />
+ 🗃  PostgreSQL | Drizzle ORM <br />
 
 
 #### 🌱 I’m currently learning ...
